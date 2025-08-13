@@ -1,4 +1,5 @@
-{
+{99designsplis@gmail.com
+	
 	"name": "Material for MkDocs - VS Code dev container",
 	"image": "mcr.microsoft.com/devcontainers/typescript-node:0-18",
 	"features": {
